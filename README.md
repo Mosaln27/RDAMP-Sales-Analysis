@@ -1,6 +1,6 @@
 # Mosa_Ngobeni_RDAMP-Sales-Analysis
 
-# RDAMP Task 1 – Ace Superstore Sales Analysis
+# RDAMP Task – Ace Superstore Sales Analysis
 
 ## 👤 Author
 Mosa Ngobeni
@@ -81,9 +81,8 @@ Retail Data Analytics & Management Program (RDAMP)
 ---
 
 ## 📎 Files Included
-- `Ace_Superstore_Sales_Report.docx` – Full report with insights and visuals
-- `Ace_Superstore.pbix` – Power BI file with data model and dashboards
-- Screenshots of key visuals in `/images` folder
+- `README.md` – Full report with insights and screenshots of key visuals.
+- `Mosa_Ngobeni_Sales_Report.pbix` – Power BI file with data model and dashboards
 
 ---
 
