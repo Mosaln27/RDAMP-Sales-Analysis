@@ -1,4 +1,4 @@
-# RDAMP-Sales-Analysis
+# Mosa_Ngobeni_RDAMP-Sales-Analysis
 
 # RDAMP Task 1 – Ace Superstore Sales Analysis
 
