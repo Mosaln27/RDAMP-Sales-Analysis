@@ -82,7 +82,7 @@ Retail Data Analytics & Management Program (RDAMP)
 
 ## 📎 Files Included
 - `README.md` – Full report with insights and screenshots of key visuals.
-- `Mosa_Ngobeni_Sales_Report.pbix` – Power BI file with data model and dashboards
+- `Mosa_Ngobeni_Sales_Report.pbix` – Power BI file with data model and visual reports.
 
 ---
 
